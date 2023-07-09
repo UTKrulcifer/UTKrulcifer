@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ptrans.css">
+    <title>Tilines</title>
+</head>
+<header>
+    <div class="menu">
+    <nav>
+        <ul>
+            <li><a href="ptrans.html">Inicio</a></li>
+            <li><a href="https://wa.me/qr/FHP5GWBPLS3DC1" target="_blank">Contactame</a></li>
+            <li><a href="https://www.youtube.com/channel/UC9yK0lT662pU-JXDGLAWVGA" target="_blank">Youtube</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=100086396709601" target="_blank">Sobre mi</a></li>
+            <li><a href="https://neocities.org/site/dannyjazz" target="_blank">Blog</a></li>
+        </ul>
+    </nav>
+    </div>
+</header>
+<body>
+    <div class="header">
+        <table>
+            <th>Rally Deportivo</th>
+        </table>
+    </div>
+    <div class="cuerpo">
+        <table>
+            <th>Introduccion</th><h2 id="aaaa"></h2>
+            <tr><td><font color="#ffffff">
+                Esta pag web es referente al tema de Rally Deportipo adjunto al proyecto transversal daremos un 
+                breve resumen de lo que se hizo organizo y pregunto de igual manera las actividades fisicas que 
+                realizamos el mismo dia las materias vistas en el dia y como empezo y termino cada uno de estos en 
+                primera instancia se nos explico en que consistiria esta carrera primero cada equipo haria 10 
+                preguntas las estudiaria y las investigaria de forma que seria como un cuestionario referente a las 
+                materias de Literatura, Matematicas, Biologia, Ingles, Historia y paraescolar explicado dias anteriores
+            </td></tr></font>
+        </table>
+    </div>
+    <div class="indice">
+        <ul><table>
+            <th>INDICE</th>
+            <tr><td><li><a href="#aaaa"><font color="#ffffff">Introduccion</a></li></td></tr>
+            <tr><td><li><a href="#bbbb"><font color="#ffffff">En que consiste</a></li></td></tr>
+            <tr><td><li><a href="#cccc"><font color="#ffffff">Estaciones</a></li></td></tr>
+            <tr><td><li><a href="#dddd"><font color="#ffffff">Imagenes</a></li></td></tr>
+            <tr><td><li><a href="#eeee"><font color="#ffffff">Video&Audio</a></li></td></tr>
+        </ul></table></font>
+    </div>
+    <div class="tabla">
+        <table>
+            <th>En Que Consiste</th><h2 id="bbbb"></h2>
+            <tr><td><font color="#ffffff">
+                De primera Instancia el equipo esta conformado por 8 integrantes los cuales se repartieron de la 
+                siguiente manera por cada estacion Siendo en pares de dos por cada estacion de igualmanera usarian 
+                una vestimenta que difereciaria los integrantes de cada equipo siendo esta una camisa de diferente 
+                color a otros equipos verde roja amarilla Azul atc. De igual manera se realizaran ejercicios al 
+                momento de ir hacia cada estacion de otra cosa a mencionar en caso de contestar mal la pregunta si 
+                en el caso estabas en la estacion 2 y contestas de manera erronea volveras a la estacion anterior y 
+                nuevamente se te hara otra pregunta de la misma y biseversa una vez explicado esto comenzo la 
+                actividad
+            </td></tr></font>
+        </table>
+    </div>
+    <div class="estaciones"><h2 id="cccc"></h2>
+        <table>
+        <th>Estaciones</th>
+        <tr><td>
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Primera Estacion: Biologia<br></font>
+            <font color="#ffffff">En la primera estacion Iniciamos en la parte Izquiera inferior de la cancha moviendo las piernas hasta golpear 
+            los talones con el gluteo todo el trallecto hasta llegar a la primera estacion que en este caso fue biologia 
+            Representada por el profesor Aurelio Remigio Enriquez Lucio el cual pregunto una sola pregunta a cada estudiante 
+            a los dos integrantes del equipo seleccionados y posteriormente paso la vanderilla a la siguiente bina del  
+            equipo una vez contestado correctamente las preguntas<br><br></font>
+
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Segunda Estacion: Ingles<br></font>
+            <font color="#ffffff">Una ves concluida la primera estacion la siguiente bina de alumnos empezo a dirijirse a la segunda Estacion 
+            en este caso Ingles dirijiendose a esta misma nuevamenete haciendo un ejercicio este consistia en alzar las 
+            piernas de tal manera que las piernas quedarana ala par con la cadera en forma de marcha una ves llegado a 
+            la estacion la encargada de este estacion en este caso la maestra Blanca Flores Rojas Vazquez pregunto una 
+            pregunta escogida anteriormente alazar por el alupno siendo esta posible pregunta desde lo que le gusta 
+            hacer hasta preferencias o razones dando la respuesta de igual manera en ingles una vez contestado 
+            correctamente los alumnos pasaron la banderilla a la siguiente bina de alumnos<br><br></font>
+
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Tercera Estacion: Literatura<br></font>
+            <font color="#ffffff">Como fue el caso de las dos anteriores una vez concluida la tercera estacion procedio la siguiente bina de 
+            alumnos a ir a la proxima estacion en este caso Literatura el ejercicio realizado para llegar a esta proxima 
+            estacion fue pizar en centro de un alto en puntas de forma rapida y una vez concluida correr hacia donde se 
+            encontraba la profesora encargada de esta estacion la cual fue la profesora Aracely Cabrera Rendon la cual 
+            procedio a hacer unas preguntas referentes hacia los textos literarios y autores de los mismos una ves 
+            contestada de igual manera se paso la banderilla al siguiente bina de alumnos<br><br></font>
+
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Cuarta Estacion: Matematicas<br></font>
+            <font color="#ffffff">la siguiente estacion fue matematicas en este caso los alupnos tubieron que dirijirse a esta esquivando los 
+            conos en forma lateral hasta llegar a la estacion encargada de la maestra Ana Mayola Perez Barrios Arcienega 
+            en nuestro caso siendo esta una serie de graficas las cuales tendriamos que colocar su nombre o fracion 
+            referente a la par con su grafica siendo esta un total de 8 graficas una vez colocado la etiqueta con su 
+            grafica correspondiente podria pasar a la siguiente estacion pasando de igual manera la banderilla hacia al 
+            siguiente grupo de alumnos<br><br></font>
+
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Quita Estacion: Historia<br></font>
+            <font color="#ffffff">Nuevamente los alupnos procedieron a hacer la actividad activa para llegar a la siguiente estacion siendo 
+            esta saltar con las piernas o pies juntos una serie de circutios de forma recta en un total de 10 ostaculos 
+            una ves llegado la encargada de esta estacionedo siendo la profesora Gloria Bautista Ramos las preguntas 
+            correspondientes siendo estas referentes a los temas de los Presientes mexicanos durante su mandato y las 
+            acciones y hechos que pasaron durante su mandato preguntandola a el alupno una pregunta de La 1 a 10 y 
+            preguntando la correspondiente una vez concluido contestado la pregunta termino el circuito de ejercicios 
+            correspondientes del tema y pir ultima dando prequeños saltos agachados hasta llegar a la linea final de 
+            la actividad correspondiente a el Rally Deportivo<br><br></font>
+
+            <font face="Copperplate Gothic Bold" size="5" color="#ffffff">Estacion Adicional: Paraescolar<br></font>
+            <font color="#ffffff">Esta Estacion a mi parecer fue una actividad adicional siendo esta en el caso de musica cantar una cancion 
+            en la de fisica una actividad activa y en la de danxa bailando una cancion conocida sin embargo esta no fue 
+            en equipos siendo mas una actividad grupal<br><br></font>
+        </td></tr>
+    </table>
+    </div>
+    <div class="imagenes">
+    <table>
+        <th>Imagenes</th><h2 id="dddd"></h2>
+        <tr><td>
+            <img src="imagenespt/img1.jpg" alt="imagen">
+            <img src="imagenespt/img2.jpg" alt="imagen">
+            <img src="imagenespt/img3.jpg" alt="imagen">
+            <img src="imagenespt/img4.jpg" alt="imagen">
+            <img src="imagenespt/img5.jpg" alt="imagen">
+            <img src="imagenespt/img6.jpg" alt="imagen">
+            <img src="imagenespt/img7.jpg" alt="imagen">
+            <img src="imagenespt/img8.jpg" alt="imagen">
+            <img src="imagenespt/img9.jpg" alt="imagen">
+        </td></tr>
+    </table>
+    </div>
+    <div class="video"><h2 id="eeee"></h2>
+        <table>
+            <th>Video</th>
+            <tr><td>
+                <video controls>
+                    <source src="imagenespt/v1.mp4" type="video/mp4">
+                    Tu navegador no admite la etiqueta de video.
+                </video>
+            </td></tr>
+            <tr><td>
+                <marquee behavior="alternate" direction="left" scrollamount="10">
+                    Audio
+                </marquee>
+            </td></tr>
+            <tr><td>
+                <audio src="imagenespt/aud1.mp3" type="audio/mpeg" controls>
+                    Tu navegador no admite la etiqueta de audio.
+                </audio>
+            </td></tr>
+        </table>
+    </div>
+</body>
+</html>
